@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @CharmieRanodya
 - 🔭 I’m currently working on Data Sciene
 - 🌱 I’m currently learning Data Science, Machine Learning, Python
 - 👯 I’m looking to collaborate on above mentioned topics
